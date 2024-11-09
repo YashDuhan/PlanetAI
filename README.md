@@ -2,6 +2,10 @@
 
 Planet AI is a web application where users can upload PDF files, ask questions about their contents, and receive accurate responses. It leverages FastAPI for the backend, PyMuPDF for text extraction, AWS S3 for file storage, and a React.js frontend for a seamless user experience.
 
+## Repositories
+- **Frontend Repository**: [PlanetAI-Frontend](https://github.com/YashDuhan/PlanetAI-Frontend)
+- **Backend Repository**: [PlanetAI-Backend](https://github.com/YashDuhan/PlanetAI-Backend)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
