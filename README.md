@@ -5,6 +5,8 @@ Planet AI is a web application where users can upload PDF files, ask questions a
 ## Repositories
 - **Frontend Repository**: [PlanetAI-Frontend](https://github.com/YashDuhan/PlanetAI-Frontend)
 - **Backend Repository**: [PlanetAI-Backend](https://github.com/YashDuhan/PlanetAI-Backend)
+  
+---
 
 ## Table of Contents
 - [Features](#features)
@@ -14,6 +16,8 @@ Planet AI is a web application where users can upload PDF files, ask questions a
 - [API Documentation](#api-documentation)
 - [Hosting](#hosting)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
+- [Project Architecture](#project-architecture)
 
 ## Features
 - Upload PDF files and extract text from the document.
@@ -118,4 +122,14 @@ Ask a question about the uploaded PDF content.
 2. Upload a PDF file.
 3. Ask questions about the content, and see responses from the AI.
 4. Clear chat if needed to start a new session.
+
+## Live Demo
+You can view the live demo of the project at the following link:
+
+[Live Demo](https://drive.google.com/file/d/1cWabE1zN91dCjhViOBVT2g4zMVDHqI4t/view)
+
+## Project Architecture
+For a detailed view of the project's architecture, refer to the following document:
+
+[Project Architecture](https://docs.google.com/document/d/e/2PACX-1vRw7j4w3tUh3-wlKUxXkTRuAp7cfIWA2SqTeIZXzsP9_YnybHwXb5krz3WWzFUPOWd_S7I5eDqORY5E/pub)
 
